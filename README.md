@@ -7,7 +7,6 @@ Simple HUD for Tf2 based on ahud developed by me. very cool hud, install it, pla
 
 ## Screenshots (outdated)
 
-![1](https://files.catbox.moe/kc6iok.jpg)
 ```
 main menu
 ```
@@ -23,6 +22,7 @@ low hp and ammo
 ```
 scope 
 ```
+![1](https://files.catbox.moe/kc6iok.jpg)
 
 
 ## Installation
