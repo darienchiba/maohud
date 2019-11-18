@@ -19,16 +19,11 @@ Simple HUD for Tf2 based on ahud developed by me. very cool hud, install it, pla
 
 * Operating Systems
 ```
-Windows 	
-Mac 	
-Linux
+Windows 	Mac 	Linux
 ```
 * Resolutions
 ```
-16:9 	
-16:10 	
-4:3 	
-5:4 	
+16:9 	16:10 	4:3 	5:4 	
 ```
 
 * Gamemodes
