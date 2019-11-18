@@ -1,27 +1,16 @@
-# maohud ( ON WORKING REPO )
-
+# about ( ON WORKING REPO )
 ```
 Simple HUD for Tf2 based on ahud developed by me. very cool hud, install it, play fair and have fun!
 ```
 
-
 ## Screenshots (outdated)
-
-```
-main menu
-```
++ main menu
 ![1](https://files.catbox.moe/kc6iok.jpg)
-```
-hud
-```
++ hud
 ![1](https://files.catbox.moe/kc6iok.jpg)
-```
-low hp and ammo
-```
++ low hp / low ammo
 ![1](https://files.catbox.moe/kc6iok.jpg)
-```
-scope 
-```
++ scope
 ![1](https://files.catbox.moe/kc6iok.jpg)
 
 
