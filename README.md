@@ -1,6 +1,6 @@
 ## About ( Repo on Work)
 ```
-Simplistic HUD for TF2 based on ahud, maohud developed by me. updates often (when needed or I edit something)
+Simplistic HUD for TF2 based on ahud, maohud it's developed by me. expect updates often.
 
 ## Screenshots (outdated)
 
