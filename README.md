@@ -4,7 +4,7 @@ Simple HUD for Tf2 based on ahud developed by me. very cool hud, install it, pla
 ```
 
 ## Screenshots (outdated)
-main menu
+> main menu
 ![1](https://files.catbox.moe/kc6iok.jpg)
  `hud`
 ![1](https://files.catbox.moe/kc6iok.jpg)
