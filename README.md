@@ -15,9 +15,9 @@ Simplistic HUD for TF2 based on ahud, maohud it's developed by me. expect update
 
 ## Credits
 
-* HaivoN - Crosshair Preview
-* Cheezeh - Rainbow Ubercharge Meter
-* Mr. PurplePigeon - Team-Colored Hitmarker
+* **HaivoN** - Crosshair Preview
+* **Cheezeh** - Rainbow Ubercharge Meter
+* **Mr. PurplePigeon** - Team-Colored Hitmarker
  
  
   
