@@ -23,7 +23,7 @@ Simplistic HUD for TF2 based on ahud, maohud it's developed by me. expect update
 
 1. Click [here](https://github.com/darienchiba/maohud/archive/master.zip) or the green `Clone or Download` button near the top of the page and then `Download ZIP` in order to download the latest version of my hud!
 2. This will download `maohud-master.zip`
-3. Drop MaoHud into custom folder
+3. Drop maohud-master folder into "custom" folder
 + `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom`
 
 ## Credits
