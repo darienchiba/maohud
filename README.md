@@ -8,7 +8,7 @@ Main Menu
 ![1](https://files.catbox.moe/kc6iok.jpg)
 
 In-Game
-![1](https://files.catbox.moe/hgb60v.png)
+<p align="center"><img src="https://files.catbox.moe/hgb60v.png" width="800"></p>
 
 Hitmarker
 <p align="center"><img src="https://files.catbox.moe/798x6i.gif" width="800"></p>
@@ -17,7 +17,7 @@ Animated Health
 <p align="center"><img src="https://files.catbox.moe/1enh9s.gif" width="800"></p>
 
 No Zoom-Scope
-<p align="center"><img src="https://files.catbox.moe/m6ll4i.gif"></p>
+<p align="center"><img src="https://files.catbox.moe/3ru73m.gif" width="800"></p>
 
 ## To Install
 
