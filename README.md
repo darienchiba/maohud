@@ -13,6 +13,12 @@ In-Game
 Hitmarker
 <p align="center"><img src="https://files.catbox.moe/798x6i.gif" width="800"></p>
 
+Animated Health
+<p align="center"><img src="https://files.catbox.moe/1enh9s.gif" width="800"></p>
+
+No Zoom-Scope
+<p align="center"><img src="https://files.catbox.moe/m6ll4i.gif" width="800"></p>
+
 ## To Install
 
 1. Click [here](https://github.com/darienchiba/maohud/archive/master.zip) or the green `Clone or Download` button near the top of the page and then `Download ZIP` in order to download the latest version of my hud!
@@ -23,9 +29,8 @@ Hitmarker
 ## Credits
 
 * **HaivoN** - Crosshair Preview
-* **Cheezeh** - Rainbow Ubercharge Meter
+* **Cheezeh** - Pulse Ubercharge Meter
 * **Mr. PurplePigeon** - Team-Colored Hitmarker
- 
  
   
 If you've found a bug or have a suggestion, [open a ticket on GitHub](https://github.com/darienchiba/maohud/issues/new) or [make a comment on my Steam Profile](https://steamcommunity.com/id/gusdapperton/).
