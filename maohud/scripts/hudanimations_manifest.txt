@@ -1,8 +1,0 @@
-hudanimations_manifest
-{
-	"file"		"scripts/hudanimations.txt"
-	"file"		"scripts/hudanimations_maohud.txt"
-	"file"		"scripts/hudanimations_tf.txt"
-	"file"		"resource/crosshairs/animations/crosshair_animations.txt"
-
-}
