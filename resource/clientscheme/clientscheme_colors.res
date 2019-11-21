@@ -35,8 +35,8 @@ Scheme
 		"ButtonBG"			"35 33 32 255"			//Darker grey for armed buttons
 		"ButtonBGT"			"35 33 32 220"			//Transparent darker grey
 		"ButtonBGD"			"25 23 22 255"			//Darkest grey for armed buttons
-		"Highlight"			"114 137 218 255"		//malhud_purp
-		"Highlight2"		"114 137 218 255"		//malhud_purp
+		"Highlight"			"114 137 218 255"		//maohud_purp
+		"Highlight2"		"114 137 218 255"		//maohud_purp
 
 		"StatSummaryBars"	"7 199 254 130"			//Bar color in statsummary and statsummary_embedded
 		
