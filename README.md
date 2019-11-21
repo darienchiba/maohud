@@ -17,7 +17,7 @@ Animated Health
 <p align="center"><img src="https://files.catbox.moe/1enh9s.gif" width="800"></p>
 
 No Zoom-Scope
-<p align="center"><img src="https://files.catbox.moe/m6ll4i.gif" width="800"></p>
+<p align="center"><img src="https://files.catbox.moe/m6ll4i.gif"></p>
 
 ## To Install
 
