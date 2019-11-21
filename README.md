@@ -5,6 +5,7 @@ Simplistic HUD for TF2 based on ahud, maohud it's developed by me. expect update
 ## Preview
 
 ![1](https://files.catbox.moe/kc6iok.jpg)
+![](https://files.catbox.moe/kc6iok.jpg | width=100)
 
 ## To Install
 
