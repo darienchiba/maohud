@@ -4,19 +4,19 @@ Simplistic HUD for TF2 based on ahud, maohud it's developed by me. expect update
 ```
 ## Preview
 
-Main Menu
+***Main Menu
 ![1](https://files.catbox.moe/kc6iok.jpg)
 
-In-Game
+***In-Game
 <p align="center"><img src="https://files.catbox.moe/hgb60v.png" width="800"></p>
 
-Hitmarker
+***Hitmarker
 <p align="center"><img src="https://files.catbox.moe/798x6i.gif" width="800"></p>
 
-Animated Health
+***Animated Health
 <p align="center"><img src="https://files.catbox.moe/1enh9s.gif" width="800"></p>
 
-No Zoom-Scope
+***No Zoom-Scope
 <p align="center"><img src="https://files.catbox.moe/3ru73m.gif" width="800"></p>
 
 ## To Install
