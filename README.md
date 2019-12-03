@@ -1,6 +1,6 @@
 ## About
 ```
-Simplistic HUD for TF2 based on ahud, maohud it's developed by me. expect updates time to time.
+Simplistic HUD for TF2 based on ahud, thanks to RaysHud and it's tutorials.
 ```
 ## Preview
 
