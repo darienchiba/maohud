@@ -29,7 +29,6 @@ Simplistic HUD for TF2 based on ahud.
 ## Credits
 
 * **HaivoN** - Crosshair Preview
-* **MindlessGonzo** - Valve VHS Intro
 * **Mr. PurplePigeon** - Team-Colored Hitmarker
  
   
